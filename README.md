@@ -12,6 +12,4 @@ A modern, interactive stopwatch built with HTML, CSS, and JavaScript. Start, pau
 - **Responsive layout** for both desktop and mobile devices
 - **Accessible controls** and clear typography
 
-## Getting Started
 
-1. **Clone the repository:**
